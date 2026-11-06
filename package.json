@@ -1,0 +1,9 @@
+{
+  "name": "personal-profile-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTML과 CSS로 만든 개인 프로필 웹사이트",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
